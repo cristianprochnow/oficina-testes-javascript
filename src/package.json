@@ -1,7 +1,7 @@
 {
-  "name": "src",
+  "name": "oficina-testes-javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Exercises about testing within JavaScript for TDD demonstration.",
   "main": "index.js",
   "scripts": {
     "test": "jest",
